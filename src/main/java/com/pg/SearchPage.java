@@ -6,4 +6,10 @@ public class SearchPage {
 	{
 		System.out.println("its a search page");
 	}
+     public void searchnew()
+     {
+	     		System.out.println("its a search page");
+
+     }
+	
 }
