@@ -5,5 +5,10 @@ public class login {
 	{
 		System.out.println("logoin");
 	}
+	
+	public void invalidlogin()
+	{
+		System.out.println("invalid-logintestcase");
+	}
 
 }
